@@ -9,6 +9,7 @@ This project presents a comprehensive financial and sales dashboard for a fictio
 | File Name                                 | Description |
 |------------------------------------------|-------------|
 | `Coffee Sales & Financial Dashboard.pptx` | Presentation summarizing the dashboard, insights, and recommendations |
+| `Coffee Sales & Financial Dashboard.pdf`  | PDF version of the presentation for easy sharing |
 | `CoffeeChainSalesFinancialAnalysis.pbix` | Power BI file with the interactive dashboard |
 | `Coffee_Chain_Sales.csv`                 | Raw dataset containing sales and financial information |
 | `screenshot 2025-04-12 045548.png`       | Preview image of the final dashboard |
